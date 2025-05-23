@@ -5,7 +5,8 @@
   "scripts": {
     "start": "webpack-dev-server --mode=development --open",
     "production": "webpack --mode production",
-    "watch": "webpack --watch --mode=development"
+    "watch": "webpack --watch --mode=development",
+    "eslint": "eslint"
   },
   "author": "Ingstrem",
   "license": "MIT",
@@ -19,6 +20,7 @@
     "css-loader": "^6.7.1",
     "eslint": "^9.27.0",
     "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.1.0",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.74.0",
