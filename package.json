@@ -1,5 +1,5 @@
 {
-  "name": "react-project",
+  "name": "react-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "production": "webpack --mode production",
     "watch": "webpack --watch --mode=development"
   },
-  "author": "Vulong Development",
+  "author": "Ingstrem",
   "license": "MIT",
   "private": false,
   "devDependencies": {
